@@ -2,7 +2,6 @@
 
 - 🔭 Currently working on Data Base SQL
 - 🌱 Currently learning Kotlin
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/losanthiago">
