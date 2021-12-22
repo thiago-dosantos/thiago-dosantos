@@ -3,16 +3,17 @@
   - 🌱 Currently learning Kotlin
 
 ##
-
-<div style="display: inline_block" align="center" class="icon"> <br>
+  <div style="display: inline_block" align="center"><br>
+  <a href="https://github.com/losanthiago">
   <img align="center" alt="Thi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Thi-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="Thi-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Thi-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Thi-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
   <img align="center" alt="Thi-Kotlin" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  </div>
+</div>
 
 ##
 
@@ -32,11 +33,9 @@
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=losanthiago&layout=compact&langs_count=7&theme=tokyonight"/> -->
   
 </div>
-
-##
   
 <!-- <div style="display: inline_block" align="left"><br>
   <img align="right" alt="Thi-gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
-  </div>
+  </div> -->
 
 
