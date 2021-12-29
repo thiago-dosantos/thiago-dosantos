@@ -1,4 +1,4 @@
-### Hi guy, I'm Thiago what's up 👋
+### Hi guys, I'm Thiago what's up 👋
   - 🔭 Currently working on Data Base SQL
   - 🌱 Currently learning Kotlin
 
