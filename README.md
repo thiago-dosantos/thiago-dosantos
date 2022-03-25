@@ -1,6 +1,6 @@
 ### Hi guys, I'm Thiago what's up 👋
-  - 🔭 Currently working on Data Base SQL
-  - 🌱 Currently learning Kotlin
+  - 🔭 Currently working on HTML/CSS, JavaScript, Data Base SQL and Python
+  - 🌱 Currently learning TypeScript
 
 ##
   <div style="display: inline_block" align="center"><br>
@@ -12,7 +12,7 @@
   <img align="center" alt="Thi-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Thi-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Thi-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
-  <img align="center" alt="Thi-Kotlin" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Thi-Type" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div>
 
 ##
