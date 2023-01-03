@@ -34,8 +34,8 @@
 
 <div align="center">
   <a href="https://github.com/losanthiago">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=losanthiago&show_icons=true&theme=radical">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=losanthiago&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=losanthiago&show_icons=true&theme=tokyonight">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=losanthiago&layout=compact&langs_count=7&theme=dracula"/>
   
 </div>
   
