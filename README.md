@@ -1,5 +1,5 @@
 ### Hi guys, I'm Thiago what's up 👋
-  - 🔭 Currently working on HTML/CSS, JavaScript, Data Base SQL and Python
+  - 🔭 Currently working on HTML/CSS, JavaScript, PHP, Data Base MySQL and Magento 2.
   - 🌱 Currently learning TypeScript
 
 ##
