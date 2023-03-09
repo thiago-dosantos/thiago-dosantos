@@ -4,7 +4,7 @@
 
 ##
   <div style="display: inline_block" align="center"><br>
-    <a href="https://github.com/losanthiago">
+    <a href="https://github.com/thiago-dosantos">
     <img align="center" alt="Thi-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
     <img align="center" alt="Thi-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
     <img align="center" alt="Thi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
