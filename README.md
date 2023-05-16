@@ -1,5 +1,5 @@
 ### Hi guys, I'm Thiago what's up 👋
-  - 🔭 Currently working on HTML/CSS, JavaScript, ReactJS, TailwindPHP, Data Base MySQL and Magento 2.
+  - 🔭 Currently working on HTML/CSS, JavaScript, ReactJS, Tailwind, PHP, Data Base MySQL and Magento 2.
   - 🌱 Currently learning TypeScript
 
 ##
