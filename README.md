@@ -1,6 +1,6 @@
 ### Hi guys, I'm Thiago what's up 👋
-  - 🔭 Currently working on HTML/CSS, JavaScript, ReactJS, Tailwind, PHP, Data Base MySQL and Magento 2.
-  - 🌱 Currently learning TypeScript
+  - 🔭 Currently working on HTML/CSS, JavaScript, ReactJS, Tailwind, PHP, Data Base MySQL.
+  - 🌱 Currently learning TypeScript and Java.
 
 ##
   <div style="display: inline_block" align="center"><br>
