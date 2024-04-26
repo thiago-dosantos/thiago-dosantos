@@ -1,7 +1,3 @@
-### Hi guys, I'm Thiago what's up 👋
-  - 🔭 Currently working on HTML/CSS, JavaScript, ReactJS, Tailwind, PHP, Data Base MySQL.
-  - 🌱 Currently learning TypeScript and Java.
-
 ##
   <div style="display: inline_block" align="center"><br>
     <a href="https://github.com/thiago-dosantos">
@@ -46,8 +42,6 @@
   
 </div>
   
-<!-- <div style="display: inline_block" align="left"><br>
-  <img align="right" alt="Thi-gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
-  </div> -->
+## 
 
 
